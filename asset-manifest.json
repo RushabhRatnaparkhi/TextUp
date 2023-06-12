@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Up-React-app/static/css/main.073c9b0a.css",
+    "main.js": "/Text-Up-React-app/static/js/main.ada4b2af.js",
+    "static/js/787.f237a53c.chunk.js": "/Text-Up-React-app/static/js/787.f237a53c.chunk.js",
+    "index.html": "/Text-Up-React-app/index.html",
+    "main.073c9b0a.css.map": "/Text-Up-React-app/static/css/main.073c9b0a.css.map",
+    "main.ada4b2af.js.map": "/Text-Up-React-app/static/js/main.ada4b2af.js.map",
+    "787.f237a53c.chunk.js.map": "/Text-Up-React-app/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ada4b2af.js"
+  ]
+}
